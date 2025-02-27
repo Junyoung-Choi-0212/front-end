@@ -18,6 +18,7 @@ export default function MyPageMenu() {
     setIsModalOpen(false);
     setNewImageFile(null);
     setNewImageUrl(null);
+    window.onload();
   };
 
   const handleImageChange = (e) => {

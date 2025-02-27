@@ -10,7 +10,6 @@ const DonorReview = () => {
           <div className="review-card__left-title-container">
             <div className="review-card__left-title">
               이동이 어려운 저소득층과 함께한 따뜻한
-              <br />
               병원 동행
             </div>
           </div>
